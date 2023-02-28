@@ -1,0 +1,57 @@
+.ant-space {
+  width: 70%;
+  /* display: flex; */
+  /* align-items: center; */
+}
+.spin-ez{
+  position: absolute;
+    right: 25%;
+    padding-block-start: 10px; 
+    cursor: pointer;
+}
+
+.open-listez{
+  display: flex;
+  width: 100%;
+  justify-content: space-around;
+}
+
+.open-listez box-image{
+  width: 50%;
+}
+
+.open-listez list-disez{
+  width: 50%;
+}
+
+.total-lists{
+  width: 100%;
+  height: 100%;
+}
+.total-lists h3{
+  margin-top: 15px;
+  font-size: 30px;
+  display: flex;
+  justify-content: center;
+}
+
+.update-order{
+  height: 100%;
+  width: auto;
+  display: flex;
+  justify-content: space-around;
+  margin-top: 15px;
+
+}
+
+
+
+.Orders-page{
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  margin-top: 15px;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
